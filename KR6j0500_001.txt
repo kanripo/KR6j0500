@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:46.370005
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:20
 #+TITLE: 佛說金色迦那鉢底陀羅尼經
 #+PROPERTY: CBETA_ID T21n1269
 #+PROPERTY: ID KR6j0500
